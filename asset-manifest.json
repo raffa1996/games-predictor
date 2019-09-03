@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/games-predictor/static/css/main.2cce8147.chunk.css",
+    "main.js": "/games-predictor/static/js/main.9b1981c6.chunk.js",
+    "main.js.map": "/games-predictor/static/js/main.9b1981c6.chunk.js.map",
+    "runtime~main.js": "/games-predictor/static/js/runtime~main.209b8956.js",
+    "runtime~main.js.map": "/games-predictor/static/js/runtime~main.209b8956.js.map",
+    "static/js/2.4c22d8bc.chunk.js": "/games-predictor/static/js/2.4c22d8bc.chunk.js",
+    "static/js/2.4c22d8bc.chunk.js.map": "/games-predictor/static/js/2.4c22d8bc.chunk.js.map",
+    "index.html": "/games-predictor/index.html",
+    "precache-manifest.b51f9ed2338be159f169f066e5a246b0.js": "/games-predictor/precache-manifest.b51f9ed2338be159f169f066e5a246b0.js",
+    "service-worker.js": "/games-predictor/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/games-predictor/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/games-predictor/static/media/logo.5d5d9eef.svg"
+  }
+}
